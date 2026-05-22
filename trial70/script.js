@@ -20,7 +20,7 @@ document.querySelectorAll('#navLinks a').forEach(a => {
 });
 
 // Countdown Timer (Target: September 14, 2025)
-const targetDate = new Date('2025-09-14T10:00:00');
+const targetDate = new Date('2026-08-23T10:00:00');
 
 function updateCountdown() {
   const now = new Date();
